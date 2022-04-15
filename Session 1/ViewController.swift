@@ -16,7 +16,6 @@ class ViewController: UIViewController {
       
       let label = UILabel()
       label.frame = CGRect.init(x: 50, y: 50, width: 150, height: 150)
-      label.textInputMode()
       label.text = "myFirstview"
       label.textColor = .white
       
